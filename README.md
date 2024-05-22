@@ -1,1 +1,1 @@
-# SMART-PARKING-USING-DEEP-LEARNING
+This directory contains result images
